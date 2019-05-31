@@ -1,0 +1,23 @@
+each tab will contain its own webpage using their one page templare.
+Write testimonials.
+Login and social navigation to be placed at the top of conatct us.
+
+Rounded navigation bar instead of 
+
+Background: (Shadeed) Black and bronzey gold 
+  - #ffa64d (bronze)
+  - #8c8c8c (fadded black) (main colour for background of nav)
+
+Instead of hovering the whole nav link, hover over 
+text (which will change colour to gold bronze colour).
+ Navbar must be colour bronze, when hovering text change colour 
+to black.
+
+Text - first bar Oppourtuities, who we are, Strados community, 
+Contact Us, Register (remove register)
+
+Web links : BERKLEY GROUP, COLLING KINGS AND ASSOCIATES, SENSIBLE STAFFING.
+ On top of navigation bar Strados's number, Sign in (drop down menu, sign in as candidate and client.
+ Twitter symbol, Linkdin icons.
+
+

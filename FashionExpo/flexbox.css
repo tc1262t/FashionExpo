@@ -1,0 +1,30 @@
+.flex-container {
+    background-color: white;
+  width: 50%;
+  height: auto;
+border-bottom: solid;
+ /* float:right; */
+
+    
+     
+    
+  text-align: center;
+  line-height: 15px;
+  font-size: 18px;
+}
+
+.flex-left {
+    
+    background-color: white;
+  width: auto;
+  height: auto;
+border-bottom: solid;
+float:left;
+
+    
+     
+    
+  text-align: center;
+  line-height: 15px;
+  font-size: 18px;
+}

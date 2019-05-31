@@ -1,0 +1,10 @@
+ .w3-back {
+    width: 100%;
+    height: 400px;
+    background-image: url('images/LogoStrados.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 1px solid red;
+}
+
+

@@ -1,0 +1,61 @@
+
+
+
+.topnav{
+     background-color:#1a0600;
+    
+    overflow:hidden;
+   position:absolute;
+}
+
+.topnav a{
+   
+    text-decoration: none;
+ 
+    height: 50px;
+    
+    line-height:50px;
+    padding: 10px 10px;
+   
+    margin-top: 2px;
+   
+ 
+    
+    
+    
+     
+   
+   
+    font-size: 16px;
+    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+} 
+
+
+.topnav a:hover{
+     
+          font-style: italic;
+  font-weight: bold;
+    color: white;
+      text-shadow: 2px 2px 4px yellowgreen;
+     
+    
+}
+
+
+.fixednav {
+
+position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
